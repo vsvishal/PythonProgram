@@ -14,7 +14,7 @@ Camelot Library not from PIP
 import camelot
 
 #ENTER THE PDF FILE PATH
-#load the pdf file
+#load the PDF tables
 tables = camelot.read_pdf(r"C:\Users\VS\Desktop\ENG_CD_1103426_D6.pdf")
 
 #ENTER THE CSV FILE NAME
